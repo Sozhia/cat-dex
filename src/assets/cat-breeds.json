@@ -1,0 +1,272 @@
+[
+  {
+    "breed": "American Curl",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The American Curl is known for its distinctive curled ears, which give it a unique appearance. It is friendly, playful, and enjoys being around people."
+  },
+  {
+    "breed": "American Shorthair",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "American Shorthairs are one of the most popular cat breeds in the U.S. They are known for their calm nature, adaptability, and strong hunting instincts."
+  },
+  {
+    "breed": "American Wirehair",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The American Wirehair has a unique wiry coat and is known for its playful, affectionate personality. They are friendly and social cats."
+  },
+  {
+    "breed": "Abyssinian",
+    "origin": "Ethiopia",
+    "temperament": 3,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-15 years",
+    "facts": "Abyssinians are one of the oldest known cat breeds. They are highly active, intelligent, and curious cats that require plenty of mental stimulation."
+  },
+  {
+    "breed": "Balinese",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Balinese cats are similar to the Siamese but have longer fur. They are social, vocal, and love human interaction."
+  },
+  {
+    "breed": "Bengal",
+    "origin": "United States",
+    "temperament": 3,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Bengals are known for their wild, leopard-like appearance, and their energetic and playful nature. They are highly intelligent and love water."
+  },
+  {
+    "breed": "Birman",
+    "origin": "Myanmar",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Birmans are affectionate, calm, and friendly cats. They are often referred to as 'Sacred Cats of Burma' and are known for their beautiful blue eyes."
+  },
+  {
+    "breed": "Bombay",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Bombay cats have a sleek, black coat and are often referred to as 'mini-panthers.' They are sociable, loving, and enjoy human company."
+  },
+  {
+    "breed": "British Shorthair",
+    "origin": "United Kingdom",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-20 years",
+    "facts": "British Shorthairs are known for their round faces, dense coats, and calm personalities. They are independent but affectionate."
+  },
+  {
+    "breed": "Burmese",
+    "origin": "Myanmar",
+    "temperament": 2,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Burmese cats are affectionate, playful, and enjoy being around people. They have a distinctive, short, shiny coat."
+  },
+  {
+    "breed": "Chausie",
+    "origin": "United States",
+    "temperament": 3,
+    "shedding": 3,
+    "aggressive": 3,
+    "life_span": "12-15 years",
+    "facts": "Chausies are hybrid cats, a cross between domestic cats and wild African jungle cats. They are active, playful, and need plenty of exercise."
+  },
+  {
+    "breed": "Cornish Rex",
+    "origin": "United Kingdom",
+    "temperament": 2,
+    "shedding": 1,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The Cornish Rex has a curly coat that requires minimal grooming. They are highly active, playful, and affectionate cats."
+  },
+  {
+    "breed": "Cymric",
+    "origin": "Isle of Man",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The Cymric is a tailless or short-tailed breed from the Isle of Man. They are friendly, intelligent, and make excellent companions."
+  },
+  {
+    "breed": "Devon Rex",
+    "origin": "United Kingdom",
+    "temperament": 2,
+    "shedding": 1,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The Devon Rex is known for its curly fur and large ears. It is playful, affectionate, and enjoys being the center of attention."
+  },
+  {
+    "breed": "Egyptian Mau",
+    "origin": "Egypt",
+    "temperament": 3,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The Egyptian Mau is one of the few naturally spotted breeds. They are highly active and intelligent, and are known for their graceful movements."
+  },
+  {
+    "breed": "European Shorthair",
+    "origin": "Europe",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "European Shorthairs are robust, adaptable cats that are independent yet affectionate. They are great with children and other pets."
+  },
+  {
+    "breed": "Exotic Shorthair",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Exotic Shorthairs have a similar appearance to the Persian but with a short coat. They are calm, friendly, and love human company."
+  },
+  {
+    "breed": "Himalayan",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 4,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Himalayans are a cross between Persians and Siamese cats. They have long, luxurious coats and are known for their sweet, gentle personalities."
+  },
+  {
+    "breed": "Japanese Bobtail",
+    "origin": "Japan",
+    "temperament": 3,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The Japanese Bobtail is famous for its short, stubby tail. They are playful, friendly, and enjoy interactive play with humans."
+  },
+  {
+    "breed": "Javanese",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Javanese cats are intelligent, energetic, and affectionate. They are highly vocal and enjoy spending time with their owners."
+  },
+  {
+    "breed": "Korat",
+    "origin": "Thailand",
+    "temperament": 3,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The Korat is known for its short, silver-blue coat and heart-shaped face. They are affectionate, loyal, and often form strong bonds with their owners."
+  },
+  {
+    "breed": "Kurilian Bobtail",
+    "origin": "Russia",
+    "temperament": 3,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The Kurilian Bobtail is known for its unique bobtail and playful personality. They are very social and love being part of family activities."
+  },
+  {
+    "breed": "LaPerm",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 1,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The LaPerm has a curly, soft coat and is known for being affectionate and people-oriented. They enjoy companionship and are playful cats."
+  },
+  {
+    "breed": "Maine Coon",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 4,
+    "aggressive": 2,
+    "life_span": "12-15 years",
+    "facts": "Maine Coons are one of the largest domestic cat breeds. They are friendly, intelligent, and often referred to as 'gentle giants.'"
+  },
+  {
+    "breed": "Manx",
+    "origin": "Isle of Man",
+    "temperament": 2,
+    "shedding": 3,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Manx cats are known for their taillessness or short tails. They are friendly, playful, and adapt well to family life."
+  },
+  {
+    "breed": "Munchkin",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-15 years",
+    "facts": "Munchkins are known for their short legs, which give them a unique appearance. They are playful, affectionate, and enjoy being around people."
+  },
+  {
+    "breed": "Nebelung",
+    "origin": "United States",
+    "temperament": 2,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Nebelungs are long-haired cats with a sleek, graceful appearance. They are gentle, affectionate, and enjoy quiet environments."
+  },
+  {
+    "breed": "Norwegian Forest Cat",
+    "origin": "Norway",
+    "temperament": 3,
+    "shedding": 4,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "The Norwegian Forest Cat is a large, strong breed with a thick, water-resistant coat. They are friendly, intelligent, and love climbing and exploring."
+  },
+  {
+    "breed": "Oriental Shorthair",
+    "origin": "United States",
+    "temperament": 3,
+    "shedding": 2,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Oriental Shorthairs are closely related to the Siamese and share many of their characteristics. They are energetic, intelligent, and love human companionship."
+  },
+  {
+    "breed": "Persian",
+    "origin": "Iran",
+    "temperament": 2,
+    "shedding": 4,
+    "aggressive": 2,
+    "life_span": "12-16 years",
+    "facts": "Persians are known for their long, luxurious coats and flat faces. They are calm, affectionate, and require regular grooming."
+  }
+]
