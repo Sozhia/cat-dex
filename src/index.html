@@ -5,15 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CatDex</title>
   <script src = "js/index.js"></script>
+  <link rel="stylesheet" href="./css/index.css">
+
 </head>
 <body>
-  <div id = "header">
-    <label for="tag-input">Enter tags (separate by ;):</label>
-    <input type="text" id="tag-input" placeholder="e.g., white;jumping"/>
-    <button onclick="filterTags()">Filter</button>
+  <div id = "container">
+    <div id = "header">
+      <div id = "switchbox">
+        <label>FILTER BY BREEDS</label>
+        <label class="switch">
+          <input type="checkbox" checked>
+          <span class="slider round"></span>
+        </label>
+      </div>
+      <div id = "breedFilter"></div>
+      <div id = "otherFilter"></div>
+    </div>
+    <div id="cardInfo"></div>
+    <div id = "cardsContainer">
   </div>
-  <div id="cat-breeds-container"></div>
-  <div id = "body">
 
   </div>
   
