@@ -4,28 +4,105 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CatDex</title>
-  <script src = "js/index.js"></script>
+  <script src = "./js/index.js"></script>
   <link rel="stylesheet" href="./css/index.css">
 
 </head>
 <body>
-  <div id = "container">
-    <div id = "header">
-      <div id = "switchbox">
-        <label>FILTER BY BREEDS</label>
-        <label class="switch">
-          <input type="checkbox" checked>
-          <span class="slider round"></span>
-        </label>
-      </div>
-      <div id = "breedFilter"></div>
-      <div id = "otherFilter"></div>
-    </div>
-    <div id="cardInfo"></div>
-    <div id = "cardsContainer">
-  </div>
+  <header>
+    <nav class="nav">
+        <img src="./assets/catdex-logo.png" alt="Logo CATDEX"><p>
+        <ul class="nav-list">
+          <li class="nav-item"><button class="btn btn-header abyssinian" id="abyssinian">Abyssinian</button></li>
+          <li class="nav-item"><button class="btn btn-header aegean" id="aegean">Aegean</button></li>
+          <li class="nav-item"><button class="btn btn-header american-bobtail" id="american-bobtail">American Bobtail</button></li>
+          <li class="nav-item"><button class="btn btn-header american-curl" id="american-curl">American Curl</button></li>
+          <li class="nav-item"><button class="btn btn-header american-shorthair" id="american-shorthair">American Shorthair</button></li>
+          <li class="nav-item"><button class="btn btn-header american-wirehair" id="american-wirehair">American Wirehair</button></li>
+          <li class="nav-item"><button class="btn btn-header arabian-mau" id="arabian-mau">Arabian Mau</button></li>
+          <li class="nav-item"><button class="btn btn-header australian-mist" id="australian-mist">Australian Mist</button></li>
+          <li class="nav-item"><button class="btn btn-header balinese" id="balinese">Balinese</button></li>
+          <li class="nav-item"><button class="btn btn-header bambino" id="bambino">Bambino</button></li>
+          <li class="nav-item"><button class="btn btn-header bengal" id="bengal">Bengal</button></li>
+          <li class="nav-item"><button class="btn btn-header birman" id="birman">Birman</button></li>
+          <li class="nav-item"><button class="btn btn-header bombay" id="bombay">Bombay</button></li>
+          <li class="nav-item"><button class="btn btn-header british-longhair" id="british-longhair">British Longhair</button></li>
+          <li class="nav-item"><button class="btn btn-header british-shorthair" id="british-shorthair">British Shorthair</button></li>
+          <li class="nav-item"><button class="btn btn-header burmese" id="burmese">Burmese</button></li>
+          <li class="nav-item"><button class="btn btn-header burmilla" id="burmilla">Burmilla</button></li>
+          <li class="nav-item"><button class="btn btn-header california-spangled" id="california-spangled">California Spangled</button></li>
+          <li class="nav-item"><button class="btn btn-header chantilly-tiffany" id="chantilly-tiffany">Chantilly-Tiffany</button></li>
+          <li class="nav-item"><button class="btn btn-header chartreux" id="chartreux">Chartreux</button></li>
+          <li class="nav-item"><button class="btn btn-header chausie" id="chausie">Chausie</button></li>
+          <li class="nav-item"><button class="btn btn-header cheetoh" id="cheetoh">Cheetoh</button></li>
+          <li class="nav-item"><button class="btn btn-header colorpoint-shorthair" id="colorpoint-shorthair">Colorpoint Shorthair</button></li>
+          <li class="nav-item"><button class="btn btn-header cornish-rex" id="cornish-rex">Cornish Rex</button></li>
+          <li class="nav-item"><button class="btn btn-header cymric" id="cymric">Cymric</button></li>
+          <li class="nav-item"><button class="btn btn-header cyprus" id="cyprus">Cyprus</button></li>
+          <li class="nav-item"><button class="btn btn-header devon-rex" id="devon-rex">Devon Rex</button></li>
+          <li class="nav-item"><button class="btn btn-header donskoy" id="donskoy">Donskoy</button></li>
+          <li class="nav-item"><button class="btn btn-header dragon-li" id="dragon-li">Dragon Li</button></li>
+          <li class="nav-item"><button class="btn btn-header egyptian-mau" id="egyptian-mau">Egyptian Mau</button></li>
+          <li class="nav-item"><button class="btn btn-header european-burmese" id="european-burmese">European Burmese</button></li>
+          <li class="nav-item"><button class="btn btn-header exotic-shorthair" id="exotic-shorthair">Exotic Shorthair</button></li>
+          <li class="nav-item"><button class="btn btn-header havana-brown" id="havana-brown">Havana Brown</button></li>
+          <li class="nav-item"><button class="btn btn-header himalayan" id="himalayan">Himalayan</button></li>
+          <li class="nav-item"><button class="btn btn-header japanese-bobtail" id="japanese-bobtail">Japanese Bobtail</button></li>
+          <li class="nav-item"><button class="btn btn-header javanese" id="javanese">Javanese</button></li>
+          <li class="nav-item"><button class="btn btn-header khao-manee" id="khao-manee">Khao Manee</button></li>
+          <li class="nav-item"><button class="btn btn-header korat" id="korat">Korat</button></li>
+          <li class="nav-item"><button class="btn btn-header kurilian" id="kurilian">Kurilian</button></li>
+          <li class="nav-item"><button class="btn btn-header laperm" id="laperm">LaPerm</button></li>
+          <li class="nav-item"><button class="btn btn-header lykoi" id="lykoi">Lykoi</button></li>
+          <li class="nav-item"><button class="btn btn-header maine-coon" id="maine-coon">Maine Coon</button></li>
+          <li class="nav-item"><button class="btn btn-header manx" id="manx">Manx</button></li>
+          <li class="nav-item"><button class="btn btn-header munchkin" id="munchkin">Munchkin</button></li>
+          <li class="nav-item"><button class="btn btn-header nebelung" id="nebelung">Nebelung</button></li>
+          <li class="nav-item"><button class="btn btn-header norwegian-forest-cat" id="norwegian-forest-cat">Norwegian Forest Cat</button></li>
+          <li class="nav-item"><button class="btn btn-header ocicat" id="ocicat">Ocicat</button></li>
+          <li class="nav-item"><button class="btn btn-header oriental" id="oriental">Oriental</button></li>
+          <li class="nav-item"><button class="btn btn-header persian" id="persian">Persian</button></li>
+          <li class="nav-item"><button class="btn btn-header peterbald" id="peterbald">Peterbald</button></li>
+          <li class="nav-item"><button class="btn btn-header pixiebob" id="pixiebob">Pixie-bob</button></li>
+          <li class="nav-item"><button class="btn btn-header ragamuffin" id="ragamuffin">Ragamuffin</button></li>
+          <li class="nav-item"><button class="btn btn-header ragdoll" id="ragdoll">Ragdoll</button></li>
+          <li class="nav-item"><button class="btn btn-header russian-blue" id="russian-blue">Russian Blue</button></li>
+          <li class="nav-item"><button class="btn btn-header siberian" id="siberian">Siberian</button></li>
+          <li class="nav-item"><button class="btn btn-header singapura" id="singapura">Singapura</button></li>
+          <li class="nav-item"><button class="btn btn-header snowshoe" id="snowshoe">Snowshoe</button></li>
+          <li class="nav-item"><button class="btn btn-header somali" id="somali">Somali</button></li>
+          <li class="nav-item"><button class="btn btn-header sphynx" id="sphynx">Sphynx</button></li>
+          <li class="nav-item"><button class="btn btn-header tonkinese" id="tonkinese">Tonkinese</button></li>
+          <li class="nav-item"><button class="btn btn-header toyger" id="toyger">Toyger</button></li>
+          <li class="nav-item"><button class="btn btn-header turkish-angora" id="turkish-angora">Turkish Angora</button></li>
+          <li class="nav-item"><button class="btn btn-header turkish-van" id="turkish-van">Turkish Van</button></li>
+          <li class="nav-item"><button class="btn btn-header york-chocolate" id="york-chocolate">York Chocolate</button></li>
+      </ul>
+      
+        
+    </nav>
+</header>
 
-  </div>
+<main>
+    <div id = "cardsContainer">
+      <div class = "allBreeds" id = "breedList">
+        <div class = "breed">
+          <p class = "breed-id-back">#Bengal</p>
+          <div class="divcatImage">
+            <img src = "null" alt = "breedImage">
+          </div>
+          <div class="breedInfo">
+            <div class="breedName">
+              <p class="breedName">#Bengal</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+</main>
+
   
 </body>
 </html>
