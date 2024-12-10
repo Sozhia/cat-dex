@@ -1,7 +1,6 @@
 {
   "name": "cat-dex",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +18,6 @@
   "homepage": "https://github.com/Sozhia/cat-dex#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
-  }
+  },
+  "description": ""
 }
