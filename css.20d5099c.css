@@ -1,0 +1,2 @@
+body{height:100vh;text-align:center;display:grid;place-items:center;font-family:Franklin Gothic Medium,Arial Narrow,Arial,sans-serif}.container{width:auto;height:auto;background-color:beige;background-size:contain;border-radius:30px}.cards{height:81%;margin:auto;display:grid;grid-template-columns:1fr 1fr 1fr}.card.one{height:700px;width:320px;background-repeat:no-repeat;background-size:contain;margin-left:20%}.card.two{margin-top:5%}.breedImg{height:640px;width:480px;transition:.5s}.breedImg:hover{transform:scale(1.2)}
+/*# sourceMappingURL=/cat-dex/css.20d5099c.css.map */
