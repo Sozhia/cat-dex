@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Sozhia/cat-dex#readme",
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "parcel-bundler": "^1.12.5"
   },
   "description": ""
